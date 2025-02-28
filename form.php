@@ -13,8 +13,7 @@
 
         <label for="nim">Nama :</label>
         <input type="text" name="nama" id="nama" required><br><br>
-       
-
+        
         <input type="submit" value="Submit">
     </form>
 
