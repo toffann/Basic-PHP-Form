@@ -15,7 +15,7 @@
         <input type="text" name="nama" id="nama" required><br><br>
         
         <input type="submit" value="Submit">
-    </form>
+    </form><br>
 
     <?php
     if (!empty($_POST)) {
