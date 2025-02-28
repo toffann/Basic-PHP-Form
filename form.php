@@ -6,7 +6,7 @@
     <title>Form</title>
 </head>
 <body>
-    <h1>Please Fill Up The Form Below</h1>
+    <h1>Please Fill Up The Form Below!</h1>
     <form method="post">
         <label for="nim">NIM :</label>
         <input type="text" name="nim" id="nim" required><br><br>
